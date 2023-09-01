@@ -1,2 +1,11 @@
-# bioSite2
-A second attempt at getting a website in order
+# bioSite
+Benjamin Andrew's bioSite for CSD 340
+
+<h1>CSD 340 Web Development with HTML and CSS</h1>
+<br />
+<br />
+<h2>Contributors</h2>
+<ul>
+  <li>Joseph Issa</li>
+  <li>Benjamin Andrew</li>
+</ul>

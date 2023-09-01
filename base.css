@@ -1,0 +1,58 @@
+<!-- CSS file! -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Andrew Module 6 CSS</title>
+</head>
+<style type="text/css">
+
+body {
+background-color: #3A63EA;
+}
+
+.column {
+float: left;
+width: 500px;
+}
+
+.textBlock {
+background-color: #3A63EA;
+color: #FFFFFF;
+float: left;
+width: 500px;
+height: 456px;
+padding: 25px;
+}
+
+.Row1of3, .Row2of3, .Row3of3 {
+    background-color: #F5EF69;
+    width: 500px;
+    height: 500px;
+    float: left;
+    }
+
+figcaption {
+    background-color: #3CDB40;
+    width: 400px;
+    }
+
+.navbar {
+overflow: hidden;
+background-color: #EBD3A1;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #FFFFFF;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.navbar a:hover {
+background-color: #3CDB40;
+color: #FFFFFF;
+}
+
+</style>
