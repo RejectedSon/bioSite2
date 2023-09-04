@@ -14,9 +14,10 @@ body {
 background-color: #3A63EA;
 }
 
-.column {
+.row {
 float: left;
-width: 500px;
+height: 525px;
+width: 100%;
 }
 
 .textBlock {
@@ -62,5 +63,12 @@ color: #FFFFFF;
 p {
 font-size: 24px;
 }
+
+.footer {
+position: static;
+color: #FFFFFF;
+text-align: center;
+}
+
 
 </style>
