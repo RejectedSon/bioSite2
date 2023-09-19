@@ -16,7 +16,7 @@ background-color: #3A63EA;
 
 .row {
 float: left;
-height: 525px;
+height: 460px;
 width: 100%;
 }
 
@@ -31,13 +31,12 @@ padding: 25px;
 
 .Row1of3, .Row2of3, .Row3of3 {
     background-color: #F5EF69;
-    width: 500px;
-    height: 500px;
+    width: 480px;
+    height: 450px;
     float: left;
     }
 
 figcaption {
-    background-color: #3CDB40;
     width: 400px;
     }
 
@@ -69,6 +68,5 @@ position: static;
 color: #FFFFFF;
 text-align: center;
 }
-
 
 </style>
